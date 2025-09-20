@@ -1,7 +1,0 @@
-2024-10-13 14:51:10,521 - __main__ - INFO - --------------- DataUpdate.py running ---------------
-2024-10-13 14:51:10,521 - __main__ - INFO - --------------- DataUpdate.py finished ---------------
-2024-10-13 14:51:49,884 - __main__ - INFO - --------------- DataUpdate.py running ---------------
-2024-10-13 14:51:49,884 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.linkedin.com:443
-2024-10-13 14:51:50,155 - urllib3.connectionpool - DEBUG - https://www.linkedin.com:443 "GET /jobs/search?keywords=Software%20Engineer&location=Ottawa&trk=public_jobs_jobs-search-bar_search-submit&position=0&pageNum=0 HTTP/11" 429 792
-2024-10-13 14:51:50,155 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.linkedin.com:443
-2024-10-13 14:51:50,287 - urllib3.connectionpool - DEBUG - https://www.linkedin.com:443 "GET /jobs/search?keywords=Software%20Engineer&location=Ottawa&trk=public_jobs_jobs-search-bar_search-submit&position=0&pageNum=0 HTTP/11" 429 24633

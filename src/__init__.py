@@ -1,0 +1,1 @@
+# LinkedIn Job Trends Scraper Package
