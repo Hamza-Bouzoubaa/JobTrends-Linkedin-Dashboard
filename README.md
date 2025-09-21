@@ -1,11 +1,12 @@
+# LinkedIn Job Trends Scraper
+
+A professional LinkedIn job scraping and analytics tool for tracking job market trends across different cities and positions. This tool provides comprehensive insights into job markets through data collection, analysis, and visualization.
+
 <img width="1759" height="618" alt="Capture d'écran 2025-09-20 132016" src="https://github.com/user-attachments/assets/89e5552a-921e-4b07-b2fe-48f55072ffdc" />
 <img width="1798" height="681" alt="Capture d'écran 2025-09-20 132036" src="https://github.com/user-attachments/assets/35bbc6a0-7d33-41cc-bb74-ed310d766b04" />
 <img width="1774" height="719" alt="Capture d'écran 2025-09-20 132029" src="https://github.com/user-attachments/assets/1d7b65f5-8a3c-4214-8f70-64f5c37fdf21" />
 
 
-# LinkedIn Job Trends Scraper
-
-A professional LinkedIn job scraping and analytics tool for tracking job market trends across different cities and positions. This tool provides comprehensive insights into job markets through data collection, analysis, and visualization.
 
 
 ## 🚀 Features
